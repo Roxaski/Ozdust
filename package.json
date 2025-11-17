@@ -1,0 +1,45 @@
+{
+  "name": "ozdust-icons",
+  "displayName": "Ozdust Icon Pack",
+  "description": "Wicked inspired icon pack for VS Code",
+  "version": "0.0.1",
+  "publisher": "Roxaski",
+  "engines": {
+    "vscode": "^1.106.0"
+  },
+  "categories": ["Themes"],
+  "keywords": [
+    "icons",
+    "icon-theme",
+    "theme",
+    "light",
+    "dark",
+    "wicked",
+    "oz",
+    "clean",
+    "minimal",
+    "file-icons"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "ozdust-light",
+        "label": "Ozdust (Light)",
+        "path": "./icon-theme-light.json"
+      },
+      {
+        "id": "ozdust-dark",
+        "label": "Ozdust (Dark)",
+        "path": "./icon-theme-dark.json"
+      }
+    ]
+  },
+  "icon": "./assets/logo.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Roxaski/Ozdust",
+    "homepage": "https://github.com/Roxaski/Ozdust#readme",
+    "bugs": "https://github.com/Roxaski/Ozdust/issues"
+  }
+}
