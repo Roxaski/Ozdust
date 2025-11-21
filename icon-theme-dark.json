@@ -4,157 +4,160 @@
       "iconPath": "./icons/file.svg"
     },
     "_folder": {
-      "iconPath": "./icons/folder.svg"
+      "iconPath": "./icons/folder-dark.svg"
     },
     "_folder_open": {
       "iconPath": "./icons/folder-open-dark.svg"
     },
     "_root_folder": {
-      "iconPath": "./icons/root-folder.svg"
+      "iconPath": "./icons/folder-dark.svg"
     },
     "_root_folder_open": {
-      "iconPath": "./icons/root-folder-open.svg"
+      "iconPath": "./icons/folder-open-dark.svg"
     },
     "_javascript": {
-      "iconPath": "./icons/javascript.svg"
+      "iconPath": "./icons/javascript-dark.svg"
     },
     "_typescript": {
-      "iconPath": "./icons/typescript.svg"
+      "iconPath": "./icons/typescript-dark.svg"
     },
     "_python": {
-      "iconPath": "./icons/python.svg"
+      "iconPath": "./icons/python-dark.svg"
     },
     "_java": {
-      "iconPath": "./icons/java.svg"
+      "iconPath": "./icons/java-dark.svg"
     },
     "_csharp": {
-      "iconPath": "./icons/csharp.svg"
+      "iconPath": "./icons/csharp-dark.svg"
     },
     "_php": {
-      "iconPath": "./icons/php.svg"
+      "iconPath": "./icons/php-dark.svg"
     },
     "_ruby": {
-      "iconPath": "./icons/ruby.svg"
+      "iconPath": "./icons/ruby-dark.svg"
     },
     "_go": {
-      "iconPath": "./icons/go.svg"
+      "iconPath": "./icons/go-dark.svg"
     },
     "_rust": {
-      "iconPath": "./icons/rust.svg"
+      "iconPath": "./icons/rust-dark.svg"
     },
     "_c": {
-      "iconPath": "./icons/c.svg"
+      "iconPath": "./icons/c-dark.svg"
     },
     "_cpp": {
-      "iconPath": "./icons/cpp.svg"
+      "iconPath": "./icons/cpp-dark.svg"
     },
     "_html": {
-      "iconPath": "./icons/html.svg"
+      "iconPath": "./icons/html-dark.svg"
     },
     "_css": {
-      "iconPath": "./icons/css.svg"
+      "iconPath": "./icons/css-dark.svg"
     },
     "_scss": {
-      "iconPath": "./icons/scss.svg"
+      "iconPath": "./icons/scss-dark.svg"
     },
     "_json": {
-      "iconPath": "./icons/json.svg"
+      "iconPath": "./icons/json-dark.svg"
     },
     "_xml": {
-      "iconPath": "./icons/xml.svg"
+      "iconPath": "./icons/xml-dark.svg"
     },
     "_yaml": {
-      "iconPath": "./icons/yaml.svg"
+      "iconPath": "./icons/yaml-dark.svg"
     },
     "_markdown": {
-      "iconPath": "./icons/markdown.svg"
+      "iconPath": "./icons/markdown-dark.svg"
     },
     "_react": {
-      "iconPath": "./icons/react.svg"
+      "iconPath": "./icons/react-dark.svg"
     },
     "_vue": {
-      "iconPath": "./icons/vue.svg"
+      "iconPath": "./icons/vue-dark.svg"
     },
     "_angular": {
-      "iconPath": "./icons/angular.svg"
+      "iconPath": "./icons/angular-dark.svg"
+    },
+    "_tailwind": {
+      "iconPath": "./icons/tailwind-dark.svg"
     },
     "_config": {
-      "iconPath": "./icons/config.svg"
+      "iconPath": "./icons/config-dark.svg"
     },
     "_git": {
-      "iconPath": "./icons/git.svg"
+      "iconPath": "./icons/git-dark.svg"
     },
     "_npm": {
-      "iconPath": "./icons/npm.svg"
+      "iconPath": "./icons/npm-dark.svg"
     },
     "_docker": {
-      "iconPath": "./icons/docker.svg"
+      "iconPath": "./icons/docker-dark.svg"
     },
     "_webpack": {
-      "iconPath": "./icons/webpack.svg"
+      "iconPath": "./icons/webpack-dark.svg"
     },
     "_vscode": {
-      "iconPath": "./icons/vscode.svg"
+      "iconPath": "./icons/vscode-dark.svg"
     },
     "_pdf": {
-      "iconPath": "./icons/pdf.svg"
+      "iconPath": "./icons/pdf-dark.svg"
     },
     "_text": {
-      "iconPath": "./icons/text.svg"
+      "iconPath": "./icons/text-dark.svg"
     },
     "_image": {
-      "iconPath": "./icons/image.svg"
+      "iconPath": "./icons/image-dark.svg"
+    },
+    "_ico": {
+     "iconPath": "./icons/icon-dark.svg"
     },
     "_video": {
-      "iconPath": "./icons/video.svg"
+      "iconPath": "./icons/video-dark.svg"
     },
     "_audio": {
-      "iconPath": "./icons/audio.svg"
+      "iconPath": "./icons/audio-dark.svg"
     },
     "_archive": {
-      "iconPath": "./icons/archive.svg"
+      "iconPath": "./icons/archive-dark.svg"
     },
-    "_folder_src": {
-      "iconPath": "./icons/folder-src.svg"
+    "_database": {
+      "iconPath": "./icons/database-dark.svg"
     },
-    "_folder_src_open": {
-      "iconPath": "./icons/folder-src-open.svg"
+    "_shell": {
+      "iconPath": "./icons/shell-dark.svg"
     },
-    "_folder_dist": {
-      "iconPath": "./icons/folder-dist.svg"
+    "_swift": {
+      "iconPath": "./icons/swift-dark.svg"
     },
-    "_folder_dist_open": {
-      "iconPath": "./icons/folder-dist-open.svg"
+    "_kotlin": {
+      "iconPath": "./icons/kotlin-dark.svg"
     },
-    "_folder_node": {
-      "iconPath": "./icons/folder-node.svg"
+    "_dart": {
+      "iconPath": "./icons/dart-dark.svg"
     },
-    "_folder_node_open": {
-      "iconPath": "./icons/folder-node-open.svg"
+    "_flutter": {
+        "iconPath": "./icons/flutter-dark.svg"
     },
-    "_folder_git": {
-      "iconPath": "./icons/folder-git.svg"
+    "_sass": {
+      "iconPath": "./icons/scss-dark.svg"
     },
-    "_folder_git_open": {
-      "iconPath": "./icons/folder-git-open.svg"
+    "_graphql": {
+      "iconPath": "./icons/graphql-dark.svg"
     },
-    "_folder_vscode": {
-      "iconPath": "./icons/folder-vscode.svg"
+    "_svelte": {
+      "iconPath": "./icons/svelte-dark.svg"
     },
-    "_folder_vscode_open": {
-      "iconPath": "./icons/folder-vscode-open.svg"
+    "_nextjs": {
+      "iconPath": "./icons/nextjs-dark.svg"
     },
-    "_folder_public": {
-      "iconPath": "./icons/folder-public.svg"
+    "_lua": {
+      "iconPath": "./icons/lua-dark.svg"
     },
-    "_folder_public_open": {
-      "iconPath": "./icons/folder-public-open.svg"
+    "_firebase": {
+      "iconPath": "./icons/firebase-dark.svg"
     },
-    "_folder_components": {
-      "iconPath": "./icons/folder-components.svg"
-    },
-    "_folder_components_open": {
-      "iconPath": "./icons/folder-components-open.svg"
+    "_nodejs": {
+      "iconPath": "./icons/nodejs-dark.svg"
     }
   },
 
@@ -206,9 +209,10 @@
     "htm": "_html",
     "css": "_css",
     "scss": "_scss",
-    "sass": "_scss",
+    "sass": "_sass",
     "less": "_css",
     "vue": "_vue",
+    "ng": "_angular",
 
     "json": "_json",
     "xml": "_xml",
@@ -225,7 +229,7 @@
     "jpeg": "_image",
     "gif": "_image",
     "svg": "_image",
-    "ico": "_image",
+    "ico": "_ico",
     "webp": "_image",
 
     "mp4": "_video",
@@ -246,7 +250,44 @@
 
     "pdf": "_pdf",
     "txt": "_text",
-    "log": "_text"
+    "log": "_text",
+
+    "sh": "_shell",
+    "bash": "_shell",
+    "zsh": "_shell",
+    "fish": "_shell",
+    "ps1": "_shell",
+    "psm1": "_shell",
+    "bat": "_shell",
+    "cmd": "_shell",
+
+    "swift": "_swift",
+    "kt": "_kotlin",
+    "kts": "_kotlin",
+    "dart": "_dart",
+
+    "graphql": "_graphql",
+    "gql": "_graphql",
+
+    "svelte": "_svelte",
+
+    "lua": "_lua",
+
+    "sql": "_database",
+    "db": "_database",
+    "sqlite": "_database",
+    "sqlite3": "_database",
+    "db3": "_database",
+    "sdb": "_database",
+    "s3db": "_database",
+    "mdb": "_database",
+    "accdb": "_database",
+    "fdb": "_database",
+    "odb": "_database",
+    "frm": "_database",
+    "ibd": "_database",
+    "dbf": "_database",
+    "pdb": "_database"
   },
 
   "fileNames": {
@@ -254,6 +295,19 @@
     "package-lock.json": "_npm",
     "yarn.lock": "_npm",
     "pnpm-lock.yaml": "_npm",
+
+    "angular.json": "_angular",
+
+    "firebase.json": "_firebase",
+    ".firebaserc": "_firebase",
+    "firestore.rules": "_firebase",
+    "firestore.indexes.json": "_firebase",
+    "storage.rules": "_firebase",
+    "database.rules.json": "_firebase",
+
+    ".nvmrc": "_nodejs",
+    ".node-version": "_nodejs",
+    "nodemon.json": "_nodejs",
 
     ".gitignore": "_git",
     ".gitattributes": "_git",
@@ -272,6 +326,7 @@
     ".prettierrc": "_config",
     ".babelrc": "_config",
     "babel.config.js": "_config",
+    "tailwind.config.js": "_tailwind",
     "vite.config.js": "_config",
     "vite.config.ts": "_config",
     "rollup.config.js": "_config",
@@ -288,33 +343,44 @@
     "readme": "_markdown",
     "license": "_text",
     "license.md": "_text",
-    "changelog.md": "_markdown"
-  },
+    "changelog.md": "_markdown",
 
-  "folderNames": {
-    "node_modules": "_folder_node",
-    ".git": "_folder_git",
-    ".vscode": "_folder_vscode",
-    "src": "_folder_src",
-    "dist": "_folder_dist",
-    "build": "_folder_dist",
-    "out": "_folder_dist",
-    "public": "_folder_public",
-    "components": "_folder_components",
-    "assets": "_folder_public"
-  },
+    "my.cnf": "_database",
+    "my.ini": "_database",
+    ".my.cnf": "_database",
+    "postgresql.conf": "_database",
+    "pg_hba.conf": "_database",
+    ".pgpass": "_database",
+    "redis.conf": "_database",
+    "mongodb.conf": "_database",
+    "mongod.conf": "_database",
+    ".sqliterc": "_database",
+    "database.json": "_database",
+    "schema.prisma": "_database",
+    "prisma.schema": "_database",
+    "knexfile.js": "_database",
+    "sequelize.config.js": "_database",
+    ".sequelizerc": "_database",
 
-  "folderNamesExpanded": {
-    "node_modules": "_folder_node_open",
-    ".git": "_folder_git_open",
-    ".vscode": "_folder_vscode_open",
-    "src": "_folder_src_open",
-    "dist": "_folder_dist_open",
-    "build": "_folder_dist_open",
-    "out": "_folder_dist_open",
-    "public": "_folder_public_open",
-    "components": "_folder_components_open",
-    "assets": "_folder_public_open"
+    "next.config.js": "_nextjs",
+    "next.config.mjs": "_nextjs",
+    "next.config.ts": "_nextjs",
+    "next-env.d.ts": "_nextjs",
+
+    "svelte.config.js": "_svelte",
+    "svelte.config.cjs": "_svelte",
+
+    "pubspec.yaml": "_flutter",
+    "pubspec.lock": "_flutter",
+    ".flutter-plugins": "_flutter",
+    ".flutter-plugins-dependencies": "_flutter",
+    "flutter_native_splash.yaml": "_flutter",
+
+    "graphql.config.js": "_graphql",
+    "graphql.config.json": "_graphql",
+    ".graphqlrc": "_graphql",
+    ".graphqlrc.json": "_graphql",
+    ".graphqlrc.yml": "_graphql"
   },
 
   "languageIds": {
@@ -335,6 +401,16 @@
     "json": "_json",
     "xml": "_xml",
     "yaml": "_yaml",
-    "markdown": "_markdown"
+    "markdown": "_markdown",
+    "sql": "_database",
+    "shellscript": "_shell",
+    "powershell": "_shell",
+    "swift": "_swift",
+    "kotlin": "_kotlin",
+    "dart": "_dart",
+    "sass": "_sass",
+    "graphql": "_graphql",
+    "svelte": "_svelte",
+    "lua": "_lua"
   }
 }
