@@ -19,7 +19,7 @@ Contributions are very much welcome. If you'd like to suggest improvements or su
 
 ## Feedback
 
-If you have any feedback you can leave a review over at the [VS Code Marketplace]() as it would be greatly appreciated, and if you encounter any issues then make sure to report them through the repository.
+If you have any feedback you can leave a review over at the [VS Code Marketplace](https://marketplace.visualstudio.com/manage/publishers/roxaski/extensions/ozdust-icons/hub?_a=acquisition) as it would be greatly appreciated, and if you encounter any issues then make sure to report them through the repository.
 
 ## Credits
 
