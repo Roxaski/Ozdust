@@ -8,6 +8,10 @@ This icon theme pack was created for use in [VS Code](https://code.visualstudio.
 
 In order to install this theme, open VS Code and head on over to the extensions tab, alternatively you can use keyboard shortcuts | Windows ( CTRL + Shift + X ) and for Mac ( ⇧ + ⌘ + X ) once there, just type in the icon pack name into the search bar and click on install, that's it. Enjoy your awesome new icon pack!
 
+## Theme
+
+This Icon Pack pairs beautifully with the [Positively Wicked](vscode:extension/RoxasKi.positively-wicked) VS Code Theme and together they create an incredible magical coding environment inspired by the wonderful world of Oz.
+
 ## Contributing
 
 Contributions are very much welcome. If you'd like to suggest improvements or submit new icons, then all you have to do is fork the repository, add your changes and submit a pull request.
