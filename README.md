@@ -1,3 +1,5 @@
+<img alt="github_read me" src="https://github.com/user-attachments/assets/4dab1298-a84c-43d4-bd11-314b6fb1adea" />
+
 ## Icon Pack
 
 This icon theme pack was created for use in [VS Code](https://code.visualstudio.com/) alot of effort was put into this icon pack, ensuring that the icons stand out and are visually appealing. If anyone wants to create an PR's to make any additions or changes, your more than welcome to do so.
