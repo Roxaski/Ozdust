@@ -2,7 +2,7 @@
   "name": "ozdust-icons",
   "displayName": "Ozdust Icon Pack",
   "description": "Wicked inspired icon pack for VS Code",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "publisher": "Roxaski",
   "engines": {
     "vscode": "^1.106.0"
