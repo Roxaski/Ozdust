@@ -2,7 +2,7 @@
 
 ## Icon Pack
 
-This icon theme pack was created for use in [VS Code](https://code.visualstudio.com/) alot of effort was put into this icon pack, ensuring that the icons stand out and are visually appealing. If anyone wants to create an PR's to make any additions or changes, your more than welcome to do so.
+This icon theme pack was created for use in [VS Code](https://code.visualstudio.com/) a lot of effort was put into this icon pack, ensuring that the icons stand out and are visually appealing. If anyone wants to create an PR's to make any additions or changes, your more than welcome to do so.
 
 ## Installation
 
