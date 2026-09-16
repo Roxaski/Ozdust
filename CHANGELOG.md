@@ -1,7 +1,8 @@
 # Change Log
 
-## [1.3.0] - 2026-03-04
+## [1.3.1] - 2026-09-16
 
 ### Update
 
-- updated read.me
+- updated banner
+- typo fix
